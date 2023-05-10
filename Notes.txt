@@ -1,0 +1,13 @@
+Iss App - https://snack.expo.dev/@akshith_srk/iss-app
+Create Flatlist
+Get api for images and description
+do styling
+
+Global Contributions: get images and info
+
+https://www.nhm.ac.uk/discover/ten-animals-we-have-saved-from-extinction.html
+https://www.wwf.org.uk/learn/wildlife/endangered-animals
+
+
+Homescreen -> AnimalScreen
+Animal-> Homescreen
